@@ -1,6 +1,6 @@
 # 1Schema.com User Manual
 
-This is where files will be posted to help users understand our system.
+This is where 1Schema™ files will be posted to help users understand our system.
 
 ## License
 
